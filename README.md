@@ -10,6 +10,6 @@
 - 1 ~ 128 까지있음.
 
 ## 정적인 컨텐츠로
-- https://cdn.jsdelivr.net/gh/hi098123/Square-Cursor@1.0/asset/1.cur
-- https://cdn.jsdelivr.net/gh/hi098123/Square-Cursor@1.0/asset/10.cur
+- https://cdn.jsdelivr.net/gh/hi098123/Square-Cursor@0.1/asset/1.cur
+- https://cdn.jsdelivr.net/gh/hi098123/Square-Cursor@0.1/asset/10.cur
 등으로 사용가능
